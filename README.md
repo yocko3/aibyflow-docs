@@ -4,7 +4,7 @@ AibyFlow の使い方を説明するページを表示するためのリポジ�
 中身はただの Markdown ファイルです。
 
 ### 🌐 公開しているページ
-https://yocko3.github.io/aibyflow-docs/
+https://lumilet.github.io/aibyflow-docs/
 
 ### 💡 備考
 - Docsify を使って Markdown をそのままウェブサイトにしています。
